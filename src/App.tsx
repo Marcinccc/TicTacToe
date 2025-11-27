@@ -8,8 +8,9 @@ function App() {
 
   return (
     <>
-
+      Test
       <Board />
+
     </>
   )
 }
